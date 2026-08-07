@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-    _   _                 _ _     _ _   _           
-   | \ | | __ _ _ __   __| | |__ (_) |_| |__   __ _ 
-   |  \| |/ _` | '_ \ / _` | '_ \| | __| '_ \ / _` |
-   | |\  | (_| | | | | (_| | | | | | |_| | | | (_| |
-   |_| \_|\__,_|_| |_|\__,_|_| |_|_|\__|_| |_|\__,_|
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00D2FF&height=200&section=header&text=Nandhitha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Engineer%20%7C%20ML%2FAI%20%7C%20Artist&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=6C5CE7&center=true&vCenter=true&width=650&lines=git+checkout+-b+biology+--%3E+cs;public+class+Nandhitha+extends+Human;finding+patterns+in+data+%26+in+paint;compiling...+compiling...+compiled+%E2%9C%93" alt="Typing SVG" />
 
@@ -77,11 +71,23 @@ I used to study cells and organisms. Now I study data and neural networks. Turns
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandhitha2912&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
+---
+
+### 🌐 Contributions in 3D
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nandhitha2912/nandhitha2912/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
+*(rotates continuously — needs a one-time Action setup, see notes below)*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nandhitha2912/nandhitha2912/output/github-contribution-grid-snake.svg" alt="Snake eating my commit history"/>
 </p>
 
-*(snake only shows up once the Action below has run at least once — see notes)*
+*(snake only shows up once the Action has run successfully — optional, see notes)*
+
+---
+
 
 ---
 
