@@ -84,7 +84,36 @@ I used to study cells and organisms. Now I study data and neural networks. Turns
 *(snake only shows up once the Action below has run at least once — see notes)*
 
 ---
+🎮 Choose Your Own Adventure: A Day in My Life
+<details> <summary><b>▶ Start</b></summary> <br>
 
+It's 9 AM. You have a Java assignment due and a sudden idea for a painting.
+
+<details> <summary>🖥️ Open the IDE</summary> <br>
+
+Good choice. Three hours later you've fixed one bug and created four new ones.
+
+<details> <summary>😤 Rage quit and get coffee</summary> <br>
+
+You return to find the code compiles now. You have no idea why. Achievement unlocked: "It's not a bug, it's a mystery." 🏆
+
+</details> <details> <summary>🧘 Take a breath and read the stack trace properly</summary> <br>
+
+Turns out it was a missing semicolon. It's always a missing semicolon. Achievement unlocked: "Sherlock Holmes, Java Edition." 🔍
+
+</details> </details> <details> <summary>🎨 Pick up the paintbrush instead</summary> <br>
+
+Two hours vanish. You have a beautiful painting and an assignment due in 4 hours.
+
+<details> <summary>😅 Panic-code the assignment</summary> <br>
+
+Somehow it works. You don't ask questions. Achievement unlocked: "Chaotic Good Engineer." 🎲
+
+</details> <details> <summary>😴 Decide tomorrow-you will handle it</summary> <br>
+
+A bold strategy. Achievement unlocked: "Professional Procrastinator." 🛌
+
+</details> </details> </details>
 ### 🎲 Roll the Dice
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Random dev joke"/>
